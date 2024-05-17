@@ -1,0 +1,14 @@
+C:\Users\Abdiel Rivera\source\repos\Character\bin\Debug\net8.0\Character.exe
+C:\Users\Abdiel Rivera\source\repos\Character\bin\Debug\net8.0\Character.deps.json
+C:\Users\Abdiel Rivera\source\repos\Character\bin\Debug\net8.0\Character.runtimeconfig.json
+C:\Users\Abdiel Rivera\source\repos\Character\bin\Debug\net8.0\Character.dll
+C:\Users\Abdiel Rivera\source\repos\Character\bin\Debug\net8.0\Character.pdb
+C:\Users\Abdiel Rivera\source\repos\Character\obj\Debug\net8.0\Character.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdiel Rivera\source\repos\Character\obj\Debug\net8.0\Character.AssemblyInfoInputs.cache
+C:\Users\Abdiel Rivera\source\repos\Character\obj\Debug\net8.0\Character.AssemblyInfo.cs
+C:\Users\Abdiel Rivera\source\repos\Character\obj\Debug\net8.0\Character.csproj.CoreCompileInputs.cache
+C:\Users\Abdiel Rivera\source\repos\Character\obj\Debug\net8.0\Character.dll
+C:\Users\Abdiel Rivera\source\repos\Character\obj\Debug\net8.0\refint\Character.dll
+C:\Users\Abdiel Rivera\source\repos\Character\obj\Debug\net8.0\Character.pdb
+C:\Users\Abdiel Rivera\source\repos\Character\obj\Debug\net8.0\Character.genruntimeconfig.cache
+C:\Users\Abdiel Rivera\source\repos\Character\obj\Debug\net8.0\ref\Character.dll

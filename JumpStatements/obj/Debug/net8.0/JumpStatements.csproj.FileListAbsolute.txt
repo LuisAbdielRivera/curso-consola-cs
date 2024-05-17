@@ -1,0 +1,14 @@
+C:\Users\Abdiel Rivera\source\repos\JumpStatements\bin\Debug\net8.0\JumpStatements.exe
+C:\Users\Abdiel Rivera\source\repos\JumpStatements\bin\Debug\net8.0\JumpStatements.deps.json
+C:\Users\Abdiel Rivera\source\repos\JumpStatements\bin\Debug\net8.0\JumpStatements.runtimeconfig.json
+C:\Users\Abdiel Rivera\source\repos\JumpStatements\bin\Debug\net8.0\JumpStatements.dll
+C:\Users\Abdiel Rivera\source\repos\JumpStatements\bin\Debug\net8.0\JumpStatements.pdb
+C:\Users\Abdiel Rivera\source\repos\JumpStatements\obj\Debug\net8.0\JumpStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdiel Rivera\source\repos\JumpStatements\obj\Debug\net8.0\JumpStatements.AssemblyInfoInputs.cache
+C:\Users\Abdiel Rivera\source\repos\JumpStatements\obj\Debug\net8.0\JumpStatements.AssemblyInfo.cs
+C:\Users\Abdiel Rivera\source\repos\JumpStatements\obj\Debug\net8.0\JumpStatements.csproj.CoreCompileInputs.cache
+C:\Users\Abdiel Rivera\source\repos\JumpStatements\obj\Debug\net8.0\JumpStatements.dll
+C:\Users\Abdiel Rivera\source\repos\JumpStatements\obj\Debug\net8.0\refint\JumpStatements.dll
+C:\Users\Abdiel Rivera\source\repos\JumpStatements\obj\Debug\net8.0\JumpStatements.pdb
+C:\Users\Abdiel Rivera\source\repos\JumpStatements\obj\Debug\net8.0\JumpStatements.genruntimeconfig.cache
+C:\Users\Abdiel Rivera\source\repos\JumpStatements\obj\Debug\net8.0\ref\JumpStatements.dll

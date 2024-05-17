@@ -1,0 +1,14 @@
+C:\Users\Abdiel Rivera\source\repos\Builders\bin\Debug\net8.0\Builders.exe
+C:\Users\Abdiel Rivera\source\repos\Builders\bin\Debug\net8.0\Builders.deps.json
+C:\Users\Abdiel Rivera\source\repos\Builders\bin\Debug\net8.0\Builders.runtimeconfig.json
+C:\Users\Abdiel Rivera\source\repos\Builders\bin\Debug\net8.0\Builders.dll
+C:\Users\Abdiel Rivera\source\repos\Builders\bin\Debug\net8.0\Builders.pdb
+C:\Users\Abdiel Rivera\source\repos\Builders\obj\Debug\net8.0\Builders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdiel Rivera\source\repos\Builders\obj\Debug\net8.0\Builders.AssemblyInfoInputs.cache
+C:\Users\Abdiel Rivera\source\repos\Builders\obj\Debug\net8.0\Builders.AssemblyInfo.cs
+C:\Users\Abdiel Rivera\source\repos\Builders\obj\Debug\net8.0\Builders.csproj.CoreCompileInputs.cache
+C:\Users\Abdiel Rivera\source\repos\Builders\obj\Debug\net8.0\Builders.dll
+C:\Users\Abdiel Rivera\source\repos\Builders\obj\Debug\net8.0\refint\Builders.dll
+C:\Users\Abdiel Rivera\source\repos\Builders\obj\Debug\net8.0\Builders.pdb
+C:\Users\Abdiel Rivera\source\repos\Builders\obj\Debug\net8.0\Builders.genruntimeconfig.cache
+C:\Users\Abdiel Rivera\source\repos\Builders\obj\Debug\net8.0\ref\Builders.dll

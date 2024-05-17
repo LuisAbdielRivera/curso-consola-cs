@@ -1,0 +1,14 @@
+C:\Users\Abdiel Rivera\source\repos\Dictonary\bin\Debug\net8.0\Dictonary.exe
+C:\Users\Abdiel Rivera\source\repos\Dictonary\bin\Debug\net8.0\Dictonary.deps.json
+C:\Users\Abdiel Rivera\source\repos\Dictonary\bin\Debug\net8.0\Dictonary.runtimeconfig.json
+C:\Users\Abdiel Rivera\source\repos\Dictonary\bin\Debug\net8.0\Dictonary.dll
+C:\Users\Abdiel Rivera\source\repos\Dictonary\bin\Debug\net8.0\Dictonary.pdb
+C:\Users\Abdiel Rivera\source\repos\Dictonary\obj\Debug\net8.0\Dictonary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdiel Rivera\source\repos\Dictonary\obj\Debug\net8.0\Dictonary.AssemblyInfoInputs.cache
+C:\Users\Abdiel Rivera\source\repos\Dictonary\obj\Debug\net8.0\Dictonary.AssemblyInfo.cs
+C:\Users\Abdiel Rivera\source\repos\Dictonary\obj\Debug\net8.0\Dictonary.csproj.CoreCompileInputs.cache
+C:\Users\Abdiel Rivera\source\repos\Dictonary\obj\Debug\net8.0\Dictonary.dll
+C:\Users\Abdiel Rivera\source\repos\Dictonary\obj\Debug\net8.0\refint\Dictonary.dll
+C:\Users\Abdiel Rivera\source\repos\Dictonary\obj\Debug\net8.0\Dictonary.pdb
+C:\Users\Abdiel Rivera\source\repos\Dictonary\obj\Debug\net8.0\Dictonary.genruntimeconfig.cache
+C:\Users\Abdiel Rivera\source\repos\Dictonary\obj\Debug\net8.0\ref\Dictonary.dll

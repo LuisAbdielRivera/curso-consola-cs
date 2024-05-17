@@ -1,0 +1,14 @@
+C:\Users\Abdiel Rivera\source\repos\ClassStatic\bin\Debug\net8.0\ClassStatic.exe
+C:\Users\Abdiel Rivera\source\repos\ClassStatic\bin\Debug\net8.0\ClassStatic.deps.json
+C:\Users\Abdiel Rivera\source\repos\ClassStatic\bin\Debug\net8.0\ClassStatic.runtimeconfig.json
+C:\Users\Abdiel Rivera\source\repos\ClassStatic\bin\Debug\net8.0\ClassStatic.dll
+C:\Users\Abdiel Rivera\source\repos\ClassStatic\bin\Debug\net8.0\ClassStatic.pdb
+C:\Users\Abdiel Rivera\source\repos\ClassStatic\obj\Debug\net8.0\ClassStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdiel Rivera\source\repos\ClassStatic\obj\Debug\net8.0\ClassStatic.AssemblyInfoInputs.cache
+C:\Users\Abdiel Rivera\source\repos\ClassStatic\obj\Debug\net8.0\ClassStatic.AssemblyInfo.cs
+C:\Users\Abdiel Rivera\source\repos\ClassStatic\obj\Debug\net8.0\ClassStatic.csproj.CoreCompileInputs.cache
+C:\Users\Abdiel Rivera\source\repos\ClassStatic\obj\Debug\net8.0\ClassStatic.dll
+C:\Users\Abdiel Rivera\source\repos\ClassStatic\obj\Debug\net8.0\refint\ClassStatic.dll
+C:\Users\Abdiel Rivera\source\repos\ClassStatic\obj\Debug\net8.0\ClassStatic.pdb
+C:\Users\Abdiel Rivera\source\repos\ClassStatic\obj\Debug\net8.0\ClassStatic.genruntimeconfig.cache
+C:\Users\Abdiel Rivera\source\repos\ClassStatic\obj\Debug\net8.0\ref\ClassStatic.dll

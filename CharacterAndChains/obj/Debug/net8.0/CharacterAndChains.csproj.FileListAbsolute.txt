@@ -1,0 +1,14 @@
+C:\Users\Abdiel Rivera\source\repos\CharacterAndChains\bin\Debug\net8.0\CharacterAndChains.exe
+C:\Users\Abdiel Rivera\source\repos\CharacterAndChains\bin\Debug\net8.0\CharacterAndChains.deps.json
+C:\Users\Abdiel Rivera\source\repos\CharacterAndChains\bin\Debug\net8.0\CharacterAndChains.runtimeconfig.json
+C:\Users\Abdiel Rivera\source\repos\CharacterAndChains\bin\Debug\net8.0\CharacterAndChains.dll
+C:\Users\Abdiel Rivera\source\repos\CharacterAndChains\bin\Debug\net8.0\CharacterAndChains.pdb
+C:\Users\Abdiel Rivera\source\repos\CharacterAndChains\obj\Debug\net8.0\CharacterAndChains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdiel Rivera\source\repos\CharacterAndChains\obj\Debug\net8.0\CharacterAndChains.AssemblyInfoInputs.cache
+C:\Users\Abdiel Rivera\source\repos\CharacterAndChains\obj\Debug\net8.0\CharacterAndChains.AssemblyInfo.cs
+C:\Users\Abdiel Rivera\source\repos\CharacterAndChains\obj\Debug\net8.0\CharacterAndChains.csproj.CoreCompileInputs.cache
+C:\Users\Abdiel Rivera\source\repos\CharacterAndChains\obj\Debug\net8.0\CharacterAndChains.dll
+C:\Users\Abdiel Rivera\source\repos\CharacterAndChains\obj\Debug\net8.0\refint\CharacterAndChains.dll
+C:\Users\Abdiel Rivera\source\repos\CharacterAndChains\obj\Debug\net8.0\CharacterAndChains.pdb
+C:\Users\Abdiel Rivera\source\repos\CharacterAndChains\obj\Debug\net8.0\CharacterAndChains.genruntimeconfig.cache
+C:\Users\Abdiel Rivera\source\repos\CharacterAndChains\obj\Debug\net8.0\ref\CharacterAndChains.dll

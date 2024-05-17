@@ -1,0 +1,14 @@
+C:\Users\Abdiel Rivera\source\repos\firstHolaMundo\bin\Debug\net8.0\firstHolaMundo.exe
+C:\Users\Abdiel Rivera\source\repos\firstHolaMundo\bin\Debug\net8.0\firstHolaMundo.deps.json
+C:\Users\Abdiel Rivera\source\repos\firstHolaMundo\bin\Debug\net8.0\firstHolaMundo.runtimeconfig.json
+C:\Users\Abdiel Rivera\source\repos\firstHolaMundo\bin\Debug\net8.0\firstHolaMundo.dll
+C:\Users\Abdiel Rivera\source\repos\firstHolaMundo\bin\Debug\net8.0\firstHolaMundo.pdb
+C:\Users\Abdiel Rivera\source\repos\firstHolaMundo\obj\Debug\net8.0\firstHolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdiel Rivera\source\repos\firstHolaMundo\obj\Debug\net8.0\firstHolaMundo.AssemblyInfoInputs.cache
+C:\Users\Abdiel Rivera\source\repos\firstHolaMundo\obj\Debug\net8.0\firstHolaMundo.AssemblyInfo.cs
+C:\Users\Abdiel Rivera\source\repos\firstHolaMundo\obj\Debug\net8.0\firstHolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\Abdiel Rivera\source\repos\firstHolaMundo\obj\Debug\net8.0\firstHolaMundo.dll
+C:\Users\Abdiel Rivera\source\repos\firstHolaMundo\obj\Debug\net8.0\refint\firstHolaMundo.dll
+C:\Users\Abdiel Rivera\source\repos\firstHolaMundo\obj\Debug\net8.0\firstHolaMundo.pdb
+C:\Users\Abdiel Rivera\source\repos\firstHolaMundo\obj\Debug\net8.0\firstHolaMundo.genruntimeconfig.cache
+C:\Users\Abdiel Rivera\source\repos\firstHolaMundo\obj\Debug\net8.0\ref\firstHolaMundo.dll
